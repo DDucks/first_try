@@ -1,0 +1,14 @@
+Broadband testing for exaded
+
+A = BT Wholesale Broadband Performance Test
+
+B = http://www.broadbandspeedtest.co.uk/
+
+Format is Up/Down/Ping(msecs)
+
+31/7/2013
+
+9.40 	A = 1.89/0.37/37 	B = 3.26/0.34/14
+10.15 	A= 1.89/0.36/47 	B = 2.35/0.34/13
+
+
