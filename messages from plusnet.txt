@@ -17,3 +17,5 @@ Michael Dixon
 
 [Sms Message: I have re-tested your connection again and can see the speed has improved again, now profiled at 4.7Mbps.
 Please monitor the connection and let us know if it drops out again.] 
+
+COULDN'T ADD IN IMAGE - OBVIOUSLY
