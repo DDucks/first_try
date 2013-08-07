@@ -1,5 +1,6 @@
 Messages from Plusnet
 
+Partial messages - text only
 
 
 Michael Dixon - BOT - DSL Logged Faults
